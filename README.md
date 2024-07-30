@@ -4,7 +4,7 @@
 **June 2024**  
 **Oliver**
 
-This project is an updated version of an older project by Prof. Stacy Doore.
+This project is an updated version of an older project from Prof. Stacy Doore.
 
 ## Bezier Follow Curve
 
