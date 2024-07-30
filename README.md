@@ -2,7 +2,7 @@
 
 **Documentation for VR Wind Turbine Underwater**  
 **June 2024**  
-**Oliver**
+**Yuyang Wang**
 
 This project is an updated version of an older project from Prof. Stacy Doore.
 
