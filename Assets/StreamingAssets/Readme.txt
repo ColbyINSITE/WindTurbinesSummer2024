@@ -1,0 +1,1 @@
+This folder used to load terrains only at runtime

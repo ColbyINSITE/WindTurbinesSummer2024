@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 042067fde9c53f24f89853884a4167b7, type: 3}
+  m_Name: desert
+  m_EditorClassIdentifier: 
+  m_treeType: desert
+  treeType: 3
+  TreeDensity: 19.3
+  TreeScaleFactor: 43
+  TreeRandomScaleFactor: 1
+  TreePrefab:
+  - {fileID: 108544, guid: d638ef2ca2fe20c4c9c08e125692d3f4, type: 3}
+  - {fileID: 199470, guid: ec78ebca7517fb745a45a931cb06d2bd, type: 3}
+  - {fileID: 193742, guid: 9c74caa742791864f9c678287121e6c9, type: 3}
+  - {fileID: 162742, guid: d15b44addf30da74f946086ec0aa993c, type: 3}
+  - {fileID: 128002, guid: bb660abd3b29d9f44866fd79795dbca4, type: 3}
+  - {fileID: 171474, guid: f62058cb710fd1745a24102fff0edd46, type: 3}

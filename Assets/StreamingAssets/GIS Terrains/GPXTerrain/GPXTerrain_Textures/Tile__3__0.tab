@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+ 
+Definition Table
+File "Tile__3__0.jpg"
+Type "RASTER"
+  (-110.8781375, 32.344435)  (0,0) Label "NW",
+  (-110.8781375, 32.33126)  (0,1454) Label "SW",
+  (-110.86436, 32.344435)  (1284,0) Label "NE",
+  (-110.86436, 32.33126)  (1284,1454) Label "SE",
+CoordSys Earth Projection 1
+degree
